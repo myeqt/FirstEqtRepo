@@ -1,13 +1,19 @@
-Getting started
+                                                    Getting started
 
 FishEye lets you view the contents of your Source Code Management (SCM) repositories in your web browser.
 
-You can:
+We can:
 
     view changesets, revisions, branches, tags, diffs and annotations.
+    
     search everything – file names, commit messages, authors, text as well as the source code.
+    
     visualise how source changes were introduced, what changed, when it changed, where it was changed, and who changed it.
+    
     track activity in your source code repository.
+    
     link specific source with related JIRA issues, Crucible code reviews, and Bamboo builds.
+    
     get real-time notifications on code activity via email, RSS, or OpenSocial dashboards.
+    
     construct your own sophisticated queries with EyeQL and integrate the results with other tools using the FishEye API.
